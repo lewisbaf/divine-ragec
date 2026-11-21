@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lewisbaf.github.io/divine-ragec/sitemap.xml
