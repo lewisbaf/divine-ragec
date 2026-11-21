@@ -13,8 +13,7 @@ const products = [
     category: "robes",
     price: 28500,
     desc: "Robe longue en tissu wax authentique, motifs floraux. Confection artisanale.",
-    emoji: "👗",
-    image: null, // ex: "images/robe-wax.webp"
+    image: "abc.webp", // ex: "images/robe-wax.webp"
     badge: "Nouveau"
   },
   {
